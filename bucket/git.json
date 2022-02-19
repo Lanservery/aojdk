@@ -11,8 +11,8 @@
         "64bit": {
             "url": [
                 "https://repo.huaweicloud.com/git-for-windows/v2.34.0.windows.1/PortableGit-2.34.0-64-bit.7z.exe#/dl.7z",
-                "https://raw.githubusercontent.com/Lanservery/aojdk/main/scripts/git/Git-Ba&sh-Here.reg",
-                "https://raw.githubusercontent.com/Lanservery/aojdk/main/scripts/git/Git-Ba&sh-Here-uninstall.reg"
+                "https://raw.githubusercontent.com/Lanservery/aojdk/master/scripts/git/Git-Ba&sh-Here.reg",
+                "https://raw.githubusercontent.com/Lanservery/aojdk/master/scripts/git/Git-Ba&sh-Here-uninstall.reg"
             ],
             "hash": [
                  "12f6aed40fdf2d409dc61d5d1626eed97b0e818549d92626bfffdd7bc580855c",
@@ -23,8 +23,8 @@
         "32bit": {
             "url": [
                 "https://repo.huaweicloud.com/git-for-windows/v2.34.0.windows.1/PortableGit-2.34.0-32-bit.7z.exe#/dl.7z",
-                "https://raw.githubusercontent.com/Lanservery/aojdk/main/scripts/git/Git-Ba&sh-Here.reg",
-                "https://raw.githubusercontent.com/Lanservery/aojdk/main/scripts/git/Git-Ba&sh-Here-uninstall.reg"
+                "https://raw.githubusercontent.com/Lanservery/aojdk/master/scripts/git/Git-Ba&sh-Here.reg",
+                "https://raw.githubusercontent.com/Lanservery/aojdk/master/scripts/git/Git-Ba&sh-Here-uninstall.reg"
             ],
             "hash": [
                  "46643dde0f40bee6e7963b9d67ec2f78ffc6882d452b866940e5fe5724dbdba3",
