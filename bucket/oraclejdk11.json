@@ -1,0 +1,17 @@
+{
+    "description": "Oracle JDK 11",
+    "homepage": "https://www.oracle.com/technetwork/java/javase/overview/index.html",
+    "version": "11.0.2-9",
+    "license": "https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html",
+    "architecture": {
+        "64bit": {
+            "url": "https://repo.huaweicloud.com/java/jdk/11.0.2+9/jdk-11.0.2_windows-x64_bin.zip",
+            "hash": "F38976B64633920ED27821FBD80CA924CE55D51B88F4DE1933CACC8BEECC5A60"
+        }
+    },
+    "extract_dir": "jdk-11.0.2",
+    "env_add_path": "bin",
+    "env_set": {
+        "JAVA_HOME": "$dir"
+    }
+}
