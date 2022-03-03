@@ -3,6 +3,5 @@
     "description": "A tool to replace your GitHub URL with fastgit URL automatically when cloning repositories.",
     "homepage": "https://github.com/FastGitORG/fgit",
     "url": "https://raw.githubusercontent.com/Lanservery/fgit/master/bin/fgit.bat",
-    //"hash": "B883C401307853E80E3B496C99C73E118E4C02DC7D9AAB6308045291F4A61DAB",
     "bin": "fgit.bat"
 }
